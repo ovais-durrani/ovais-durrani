@@ -51,4 +51,4 @@ that are easy to maintain and troubleshoot.
 ## Contact
 
 - GitHub: https://github.com/ovais-durrani
-- Upwork: (coming soon)
+- Upwork: https://www.upwork.com/freelancers/~01b88a068078304fb8?mp_source=share

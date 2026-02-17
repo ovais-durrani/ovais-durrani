@@ -1,4 +1,4 @@
-## Hi, I'm Ovais Durrani 👋
+## Hi, I'm Muhammad Ovais 👋
 
 I’m a Linux Server & DevOps freelancer with hands-on experience
 managing Ubuntu and CentOS servers in production-like environments.
